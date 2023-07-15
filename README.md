@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @KoracM  
+# 👋 Hi, I’m Mustafa Korac  
 ### 🌱 Student in Computer Science
 ---
 - 👀 I’m interested how things work in computer and network.  
